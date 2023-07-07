@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">pourboireApp</string>
+    <string name="rb_1">Excellent(20%)</string>
+    <string name="rb_2">Bon(18%)</string>
+    <string name="rb_3">Pas mal(15%)</string>
+
+
+    <string-array name="categorie_array">
+            <item>VIP</item>
+            <item>Standard</item>
+    </string-array>
+</resources>
